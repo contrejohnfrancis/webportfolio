@@ -1,0 +1,34 @@
+*{
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+
+}	
+
+#navbar{
+	background-color: #938985;
+}
+
+#aboutme{
+	background-color: #d1d2d5;
+}
+
+#project{
+	background-color: #938985;
+}
+
+#tools{
+	background-color: #d1d2d5;
+}
+
+#htmlcard{
+	background-color: #938985;
+}
+
+#bootstrapcard{
+	background-color: #938985;
+}
+
+#nodejscard{
+	background-color: #938985;
+}
