@@ -3,6 +3,7 @@
 	box-sizing: border-box;
 	margin: 0;
 
+
 }	
 
 #navbar{
@@ -32,3 +33,22 @@
 #nodejscard{
 	background-color: #938985;
 }
+
+#contact{
+	background-color: #938985;
+}
+
+#sendbutton{
+	background-color: #d1d2d5;
+}
+
+#footer{
+	background-color: #d1d2d5;
+}
+
+
+#icon{
+	display: inline-flex;
+	margin-left: 5px;
+}
+
